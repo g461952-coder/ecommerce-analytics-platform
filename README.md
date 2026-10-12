@@ -103,3 +103,22 @@ This project analyzes historical transactions rather than live business data. Re
 ## Author
 
 Created as an e-commerce analytics portfolio project to demonstrate data preparation, analytical thinking, KPI development, data modeling, and dashboard design.
+
+## Power BI Dashboard Preview
+
+The dashboard contains five pages covering overall business performance, products and sales, delivery operations, customer behavior, and payment and review patterns.
+
+### Executive Overview
+![Executive Overview](images/executive-overview.png.png)
+
+### Product & Sales
+![Product & Sales](images/product-sales.png.png)
+
+### Operations
+![Operations](images/operations.png.png)
+
+### Customers
+![Customers](images/customers.png.png)
+
+### Payment & Reviews
+![Payment & Reviews](images/payment-reviews.png.png)
